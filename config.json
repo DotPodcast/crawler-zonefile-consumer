@@ -1,0 +1,10 @@
+{
+  "blockstack": {
+    "host": "localhost"
+  },
+  "rabbit": {
+    "host": "localhost",
+    "exchange": "names",
+    "queue": "name_queue"
+  }
+}
